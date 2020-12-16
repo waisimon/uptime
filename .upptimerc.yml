@@ -1,5 +1,5 @@
 owner: waisimon # GitHub username
-repo: upptime # GitHub repository name
+repo: uptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
