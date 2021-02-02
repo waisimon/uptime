@@ -3,9 +3,6 @@ repo: uptime # GitHub repository name
 sites: # List of endpoints to track
   - name: Google
     url: https://www.google.com
-  - name: Bet2Me
-    url: $WH_BET2ME
-    method: POST
 assignees: # Users to assign downtime issues (optional)
   - waisimon
 status-website:
